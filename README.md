@@ -5,7 +5,7 @@ Firefox and Chrome and Interent 8) it will not work in Opera
 
 ## usage:
 
-```html
+```javascript
 
 $(function() {
 	$('iframe').designMode(true).filterPaste(function(text) {
