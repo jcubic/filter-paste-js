@@ -11,9 +11,9 @@ $(function() {
 	$('iframe').designMode(true).filterPaste(function(text) {
 		return text.replace(/<\/?\w+[^>]*>/gi, "");
 	});
-});
+});```
 
-```
+this will strip all tags from pasting text (like when you copy from a web page)
 
 ## Aditional plugins
 
