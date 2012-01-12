@@ -1,7 +1,7 @@
 ## jQuery plugin for intercepting paste text into iframe with design mode
 
 this plugin allow you to filter text pasted into iframe (tested on latest
-Firefox and Chrome and Interent 8) it will not work in Opera
+Firefox and Chrome and Internet Explorer 8) it will not work in Opera
 
 ## usage:
 
